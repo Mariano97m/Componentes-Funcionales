@@ -1,0 +1,48 @@
+.App {
+    width: 900px;
+    margin: 10vh auto;
+    background-color: rgb(232, 228, 228);
+    padding: 15px;
+
+}
+.CajaCabecera {
+    background-color: rgb(241, 192, 15);
+    height: 75px;
+    margin-bottom: 15px;
+}
+
+.CajaSub {
+    background-color: rgb(81, 241, 228) ;
+    height: 450px;
+    width: 220px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 5px;
+    margin-left: 30px;
+}
+
+.Contenedor {
+    background-color: rgb(255, 0, 225);
+    width: 600px;
+    height: 430px;
+    display: inline-block;
+    padding: 15px;
+    vertical-align: top;
+}
+
+.SubContenedor {
+    background-color: blue;
+    margin: 5px;
+    height: 180px;
+    width: 190px;
+    display: inline-block;
+}
+
+.Barra {
+    background-color: rgb(2, 237, 2);
+    height: 85px;
+    padding: 10px;
+    margin-top: 20px;
+
+}
+
